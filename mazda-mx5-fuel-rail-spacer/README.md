@@ -1,6 +1,6 @@
-# Mazda MX-5 1990-2005 Fuel Rail Insulator Spacer Isolator
+# Mazda MX-5 1990-2005 Fuel Rail Spacer
 
-Sliding Nut for 20x20 mm Extruded aluminium profiles
+Fuel Rail Spacer for Mazda MX-5
 
 ![mx5-rail-spacer](mx5-rail-spacer.png)
 
