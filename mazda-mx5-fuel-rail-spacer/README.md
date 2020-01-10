@@ -3,3 +3,9 @@
 Sliding Nut for 20x20 mm Extruded aluminium profiles
 
 ![mx5-rail-spacer](mx5-rail-spacer.png)
+
+## Print option
+
+- **Material:** ABS
+
+- **Supports:** YES
